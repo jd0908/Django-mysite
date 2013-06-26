@@ -1,0 +1,10 @@
+*** Starting uWSGI 1.0.3-debian (64bit) on [Wed Jun 26 11:09:04 2013] ***
+compiled with version: 4.6.3 on 17 July 2012 02:26:54
+current working directory: /var/www/mysite
+writing pidfile to /var/www/mysite/django_uwsgi.pid
+detected binary path: /usr/bin/uwsgi-core
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your memory page size is 4096 bytes
+probably another instance of uWSGI is running on the same address.
+bind(): Address already in use [socket.c line 598]
